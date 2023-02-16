@@ -1,0 +1,40 @@
+{
+  "name": "asd-convention",
+  "version": "1.0.13",
+  "last_updated": "June 17, 2022 | 7:24 PM",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "node --max-old-space-size=1024 node_modules/nuxt/bin/nuxt.js build",
+    "start": "nuxt start",
+    "generate": "node --max-old-space-size=1024 node_modules/nuxt/bin/nuxt.js generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@pusher/push-notifications-web": "^1.1.0",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "card-validator": "^8.1.1",
+    "core-js": "^3.9.1",
+    "element-ui": "^2.15.1",
+    "jquery": "^3.6.0",
+    "js-cookie": "^2.2.1",
+    "laravel-echo": "^1.9.0",
+    "nuxt": "^2.15.3",
+    "pusher-js": "^7.0.3",
+    "vue-country-region-select": "^2.0.16",
+    "vue-events": "^3.1.0",
+    "vue-moment": "^4.1.0",
+    "vue-social-sharing": "^3.0.8",
+    "vue-tel-input": "^4.4.2",
+    "vue2-editor": "^2.10.2",
+    "vuelidate": "^0.7.6",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.1"
+  }
+}
