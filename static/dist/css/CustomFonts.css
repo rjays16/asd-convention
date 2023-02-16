@@ -1,0 +1,203 @@
+/***** Start of Avenir *****/
+@font-face {
+    font-family: 'Avenir-Regular';
+    src:url('./CustomFonts/Avenir/Avenir-Regular.ttf');
+    src:url('./CustomFonts/Avenir/Avenir-Regular.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/Avenir/Avenir-Regular.ttf') format('woff2'),
+        url('./CustomFonts/Avenir/Avenir-Regular.ttf') format('woff'),
+        url('./CustomFonts/Avenir/Avenir-Regular.ttf')  format('truetype'),
+        url('./CustomFonts/Avenir/Avenir-Regular.ttf#svgFontName') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+@font-face {
+    font-family: 'Avenir-Bold';
+    src:url('./CustomFonts/Avenir/Avenir-Bold.ttf');
+    src:url('./CustomFonts/Avenir/Avenir-Bold.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/Avenir/Avenir-Bold.ttf') format('woff2'),
+        url('./CustomFonts/Avenir/Avenir-Bold.ttf') format('woff'),
+        url('./CustomFonts/Avenir/Avenir-Bold.ttf')  format('truetype'),
+        url('./CustomFonts/Avenir/Avenir-Bold.ttf#svgFontName') format('svg');
+        font-weight: 700;
+        font-style: normal;
+}
+@font-face {
+    font-family: 'Avenir-Italic';
+    src:url('./CustomFonts/Avenir/Avenir-Italic.ttf');
+    src:url('./CustomFonts/Avenir/Avenir-Italic.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/Avenir/Avenir-Italic.ttf') format('woff2'),
+        url('./CustomFonts/Avenir/Avenir-Italic.ttf') format('woff'),
+        url('./CustomFonts/Avenir/Avenir-Italic.ttf')  format('truetype'),
+        url('./CustomFonts/Avenir/Avenir-Italic.ttf#svgFontName') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+
+.avenir-regular {
+    font-family: 'Avenir-Regular' !important;
+}
+.avenir-italic {
+    font-family: 'Avenir-Italic' !important;
+}
+.avenir-bold {
+    font-family: 'Avenir-Bold' !important;
+}
+/***** End of Avenir *****/
+/***** Start of DM Sans *****/
+@font-face {
+    font-family: 'DMSans-Regular';
+    src:url('./CustomFonts/DMSans/DMSans-Regular.ttf');
+    src:url('./CustomFonts/DMSans/DMSans-Regular.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/DMSans/DMSans-Regular.ttf') format('woff2'),
+        url('./CustomFonts/DMSans/DMSans-Regular.ttf') format('woff'),
+        url('./CustomFonts/DMSans/DMSans-Regular.ttf')  format('truetype'),
+        url('./CustomFonts/DMSans/DMSans-Regular.ttf#svgFontName') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+@font-face {
+    font-family: 'DMSans-Italic';
+    src:url('./CustomFonts/DMSans/DMSans-Italic.ttf');
+    src:url('./CustomFonts/DMSans/DMSans-Italic.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/DMSans/DMSans-Italic.ttf') format('woff2'),
+        url('./CustomFonts/DMSans/DMSans-Italic.ttf') format('woff'),
+        url('./CustomFonts/DMSans/DMSans-Italic.ttf')  format('truetype'),
+        url('./CustomFonts/DMSans/DMSans-Italic.ttf#svgFontName') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+@font-face {
+    font-family: 'DMSans-BoldItalic';
+    src:url('./CustomFonts/DMSans/DMSans-Italic.ttf');
+    src:url('./CustomFonts/DMSans/DMSans-Italic.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/DMSans/DMSans-Italic.ttf') format('woff2'),
+        url('./CustomFonts/DMSans/DMSans-Italic.ttf') format('woff'),
+        url('./CustomFonts/DMSans/DMSans-Italic.ttf')  format('truetype'),
+        url('./CustomFonts/DMSans/DMSans-Italic.ttf#svgFontName') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+@font-face {
+    font-family: 'DMSans-Bold';
+    src:url('./CustomFonts/DMSans/DMSans-Bold.ttf');
+    src:url('./CustomFonts/DMSans/DMSans-Bold.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/DMSans/DMSans-Bold.ttf') format('woff2'),
+        url('./CustomFonts/DMSans/DMSans-Bold.ttf') format('woff'),
+        url('./CustomFonts/DMSans/DMSans-Bold.ttf')  format('truetype'),
+        url('./CustomFonts/DMSans/DMSans-Bold.ttf#svgFontName') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+.dmsans-regular {
+    font-family: 'DMSans-Regular' !important;
+}
+.dmsans-italic {
+    font-family: 'DMSans-Italic' !important;
+}
+.dmsans-bold-italic {
+    font-family: 'DMSans-BoldItalic' !important;
+}
+.dmsans-bold {
+    font-family: 'DMSans-Bold' !important;
+}
+/***** End of DM Sans *****/
+
+/***** Start of Inter *****/
+@font-face {
+    font-family: 'Inter-Medium';
+    src:url('./CustomFonts/Inter/Inter-Medium.ttf');
+    src:url('./CustomFonts/Inter/Inter-Medium.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/Inter/Inter-Medium.ttf') format('woff2'),
+        url('./CustomFonts/Inter/Inter-Medium.ttf') format('woff'),
+        url('./CustomFonts/Inter/Inter-Medium.ttf')  format('truetype'),
+        url('./CustomFonts/Inter/Inter-Medium.ttf#svgFontName') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+.inter-medium {
+    font-family: 'Inter-Medium' !important;
+}
+/***** End of Inter *****/
+
+/***** Start of Oxygen *****/
+@font-face {
+    font-family: 'Oxygen-Regular';
+    src:url('./CustomFonts/Oxygen/Oxygen-Regular.ttf');
+    src:url('./CustomFonts/Oxygen/Oxygen-Regular.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/Oxygen/Oxygen-Regular.ttf') format('woff2'),
+        url('./CustomFonts/Oxygen/Oxygen-Regular.ttf') format('woff'),
+        url('./CustomFonts/Oxygen/Oxygen-Regular.ttf')  format('truetype'),
+        url('./CustomFonts/Oxygen/Oxygen-Regular.ttf#svgFontName') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+.oxygen-regular {
+    font-family: 'Oxygen-Regular' !important;
+}
+/***** End of Oxygen *****/
+
+/***** Start of Rajdhani *****/
+@font-face {
+    font-family: 'Rajdhani-Medium';
+    src:url('./CustomFonts/Rajdhani/Rajdhani-Medium.ttf');
+    src:url('./CustomFonts/Rajdhani/Rajdhani-Medium.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/Rajdhani/Rajdhani-Medium.ttf') format('woff2'),
+        url('./CustomFonts/Rajdhani/Rajdhani-Medium.ttf') format('woff'),
+        url('./CustomFonts/Rajdhani/Rajdhani-Medium.ttf')  format('truetype'),
+        url('./CustomFonts/Rajdhani/Rajdhani-Medium.ttf#svgFontName') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+@font-face {
+    font-family: 'Rajdhani-Bold';
+    src:url('./CustomFonts/Rajdhani/Rajdhani-Bold.ttf');
+    src:url('./CustomFonts/Rajdhani/Rajdhani-Bold.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/Rajdhani/Rajdhani-Bold.ttf') format('woff2'),
+        url('./CustomFonts/Rajdhani/Rajdhani-Bold.ttf') format('woff'),
+        url('./CustomFonts/Rajdhani/Rajdhani-Bold.ttf')  format('truetype'),
+        url('./CustomFonts/Rajdhani/Rajdhani-Bold.ttf#svgFontName') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+.rajdhani-medium {
+    font-family: 'Rajdhani-Medium' !important;
+}
+.rajdhani-bold {
+    font-family: 'Rajdhani-Bold' !important;
+}
+/***** End of Rajdhani *****/
+
+/***** Start of Roboto *****/
+@font-face {
+    font-family: 'Roboto-Bold';
+    src:url('./CustomFonts/Roboto/Roboto-Bold.ttf');
+    src:url('./CustomFonts/Roboto/Roboto-Bold.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/Roboto/Roboto-Bold.ttf') format('woff2'),
+        url('./CustomFonts/Roboto/Roboto-Bold.ttf') format('woff'),
+        url('./CustomFonts/Roboto/Roboto-Bold.ttf')  format('truetype'),
+        url('./CustomFonts/Roboto/Roboto-Bold.ttf#svgFontName') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+.roboto-bold {
+    font-family: 'Roboto-Bold' !important;
+}
+/***** End of Roboto *****/
+
+/***** Start of Adamina *****/
+@font-face {
+    font-family: 'Adamina-Regular';
+    src:url('./CustomFonts/Adamina/Adamina-Regular.ttf');
+    src:url('./CustomFonts/Adamina/Adamina-Regular.ttf?#iefix') format('embedded-opentype'),
+        url('./CustomFonts/Adamina/Adamina-Regular.ttf') format('woff2'),
+        url('./CustomFonts/Adamina/Adamina-Regular.ttf') format('woff'),
+        url('./CustomFonts/Adamina/Adamina-Regular.ttf')  format('truetype'),
+        url('./CustomFonts/Adamina/Adamina-Regular.ttf#svgFontName') format('svg');
+        font-weight: normal;
+        font-style: normal;
+}
+
+.adamina-regular{
+    font-family: 'Adamina-Regular' !important;
+}
+/***** End of Adamina *****/
